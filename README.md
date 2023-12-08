@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @metalfred_
 - 👀 I’m interested in science and technology
 - 🌱 I’m currently learning IoT
-- 📫 fredy.solares98@icloudl.com
+- 📫 fredy.solares98@icloud.com
 
 <!---
 fredmetal/fredmetal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
